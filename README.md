@@ -35,3 +35,7 @@ ZJUT CS的保研分享库，目前该库持续补充信息
 3. [投稿技巧](https://github.com/MLNLP-World/Paper-Writing-Tips)
 ## 💓结尾
 希望本项目可以帮助到各位BAOYANer，希望大家可以上岸心中的梦校。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Devin100086/ZJUT-BAOYAN&type=Date)](https://star-history.com/#Devin100086/ZJUT-BAOYAN&Date)
